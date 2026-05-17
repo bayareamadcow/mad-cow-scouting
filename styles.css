@@ -169,6 +169,26 @@ h1 {
   line-height: 1.5;
 }
 
+.data-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 0 18px;
+}
+
+.data-pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 10px 14px;
+  border-radius: 999px;
+  background: rgba(255, 122, 77, 0.08);
+  border: 1px solid rgba(255, 122, 77, 0.24);
+  color: var(--accent-soft);
+  font-size: 13px;
+  line-height: 1.35;
+}
+
 .player-grid {
   display: grid;
   grid-template-columns: 0.95fr 0.95fr 1fr 1.15fr;
@@ -234,5 +254,9 @@ code {
 
   .stat-ref {
     text-align: left;
+  }
+
+  .data-pill {
+    width: 100%;
   }
 }

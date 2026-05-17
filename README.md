@@ -1,6 +1,6 @@
 # MADCOW
 
-Local scout build for the Lions core group, now updated with a three-game team read.
+Local scout build for the Lions core group, now updated as a three-game tactical and technical baseline.
 
 ## What is inside
 
@@ -17,6 +17,12 @@ Local scout build for the Lions core group, now updated with a three-game team r
 - April 22, 2026: Pirates vs Lions
 - April 29, 2026: Wolves vs Lions
 - May 6, 2026: Lions vs Eagles
+
+## Current chart scope
+
+- The page currently uses only the 3 games above, per your confirmed scope.
+- The make/miss plots are still a visible tape sample, not yet a full every-attempt hand chart from all 3 games.
+- The tactical and technical notes are the priority layer right now: offensive role, preferred scoring bands, live-with zones, and coverage calls.
 
 ## How to open
 
@@ -44,4 +50,10 @@ Open [index.html](C:\Users\12444\Documents\Codex\2026-05-16\youtube\madcow\index
 
 ## Next upgrade
 
-If you want the page to use the original poster photos instead of the generated reference cards, replace the matching files in `assets/portraits/`.
+As more games come in, update these first:
+
+- #4 top / left-slot three volume and first-touch usage
+- #14 right-elbow and late-clock creation touches
+- #1 catch-and-go side preference
+- #13 and #77 deep catches versus one-step-up catches
+- #40 cleanup scoring versus self-created scoring
