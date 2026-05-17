@@ -22,6 +22,7 @@ Local scout build for the Lions core group, now updated as a three-game tactical
 
 - The page currently uses only the 3 games above, per your confirmed scope.
 - The make/miss plots are still a visible tape sample, not yet a full every-attempt hand chart from all 3 games.
+- The chart is now a hybrid read: real green/red shot dots plus shaded preferred scoring bands and live-with zones.
 - The tactical and technical notes are the priority layer right now: offensive role, preferred scoring bands, live-with zones, and coverage calls.
 
 ## How to open

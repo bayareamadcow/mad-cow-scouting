@@ -7,6 +7,15 @@
     "josh": {
       "display_name": "Colin",
       "sample_note": "#4 lead guard sample",
+      "preferred_band": "left slot 3, top reset 3, middle-lane pull/float",
+      "live_with_band": "deep right pull-up and wide sideline escape",
+      "zones": [
+        { "tone": "preferred", "shape": "ellipse", "x": 18, "y": 23, "rx": 6, "ry": 5 },
+        { "tone": "preferred", "shape": "ellipse", "x": 25, "y": 24, "rx": 6, "ry": 5 },
+        { "tone": "preferred", "shape": "ellipse", "x": 25, "y": 14, "rx": 5, "ry": 6 },
+        { "tone": "live", "shape": "ellipse", "x": 37, "y": 23, "rx": 6, "ry": 5 },
+        { "tone": "live", "shape": "ellipse", "x": 42, "y": 38, "rx": 5, "ry": 5 }
+      ],
       "shots": [
         { "x": 18, "y": 25, "result": "make" },
         { "x": 24, "y": 23, "result": "make" },
@@ -21,6 +30,15 @@
     "chad": {
       "display_name": "Josh",
       "sample_note": "#1 scorer sample",
+      "preferred_band": "right wing, right corner, right elbow touch",
+      "live_with_band": "extra left-hand dribbles into traffic",
+      "zones": [
+        { "tone": "preferred", "shape": "ellipse", "x": 37, "y": 23, "rx": 6, "ry": 5 },
+        { "tone": "preferred", "shape": "ellipse", "x": 43, "y": 38, "rx": 5, "ry": 5 },
+        { "tone": "preferred", "shape": "ellipse", "x": 31, "y": 17, "rx": 5, "ry": 5 },
+        { "tone": "live", "shape": "ellipse", "x": 14, "y": 25, "rx": 6, "ry": 5 },
+        { "tone": "live", "shape": "ellipse", "x": 18, "y": 17, "rx": 5, "ry": 5 }
+      ],
       "shots": [
         { "x": 38, "y": 28, "result": "make" },
         { "x": 46, "y": 41, "result": "make" },
@@ -35,6 +53,14 @@
     "elijah": {
       "display_name": "Elijah",
       "sample_note": "#13 interior sample",
+      "preferred_band": "restricted area, blocks, short corner dump-offs",
+      "live_with_band": "one-step-up catches and loaded-chest finishes",
+      "zones": [
+        { "tone": "preferred", "shape": "ellipse", "x": 25, "y": 7, "rx": 7, "ry": 5 },
+        { "tone": "preferred", "shape": "ellipse", "x": 18, "y": 12, "rx": 5, "ry": 5 },
+        { "tone": "preferred", "shape": "ellipse", "x": 32, "y": 12, "rx": 5, "ry": 5 },
+        { "tone": "live", "shape": "ellipse", "x": 25, "y": 18, "rx": 9, "ry": 5 }
+      ],
       "shots": [
         { "x": 25, "y": 7, "result": "make" },
         { "x": 18, "y": 9, "result": "make" },
@@ -49,6 +75,15 @@
     "yeyo": {
       "display_name": "Yeyo",
       "sample_note": "#77 big sample",
+      "preferred_band": "dunker spot, restricted circle, direct seals",
+      "live_with_band": "short-roll catches above the block",
+      "zones": [
+        { "tone": "preferred", "shape": "ellipse", "x": 16, "y": 10, "rx": 5, "ry": 4 },
+        { "tone": "preferred", "shape": "ellipse", "x": 34, "y": 10, "rx": 5, "ry": 4 },
+        { "tone": "preferred", "shape": "ellipse", "x": 25, "y": 12, "rx": 6, "ry": 5 },
+        { "tone": "live", "shape": "ellipse", "x": 25, "y": 20, "rx": 8, "ry": 5 },
+        { "tone": "live", "shape": "ellipse", "x": 25, "y": 31, "rx": 6, "ry": 5 }
+      ],
       "shots": [
         { "x": 16, "y": 10, "result": "make" },
         { "x": 34, "y": 10, "result": "make" },
@@ -62,6 +97,15 @@
     "vince": {
       "display_name": "Vince",
       "sample_note": "#14 organizer sample",
+      "preferred_band": "top, right slot, right elbow",
+      "live_with_band": "deeper late-clock pull-ups, especially left drift",
+      "zones": [
+        { "tone": "preferred", "shape": "ellipse", "x": 25, "y": 24, "rx": 6, "ry": 5 },
+        { "tone": "preferred", "shape": "ellipse", "x": 33, "y": 24, "rx": 5, "ry": 5 },
+        { "tone": "preferred", "shape": "ellipse", "x": 31, "y": 17, "rx": 5, "ry": 5 },
+        { "tone": "live", "shape": "ellipse", "x": 15, "y": 28, "rx": 6, "ry": 5 },
+        { "tone": "live", "shape": "ellipse", "x": 18, "y": 17, "rx": 5, "ry": 5 }
+      ],
       "shots": [
         { "x": 25, "y": 23, "result": "make" },
         { "x": 33, "y": 25, "result": "make" },
@@ -77,6 +121,16 @@
     "ryan": {
       "display_name": "Ryan",
       "sample_note": "#40 pressure-piece sample",
+      "preferred_band": "lane lines, cleanup paint touches, short catches",
+      "live_with_band": "above-break threes and contested second-side pull-ups",
+      "zones": [
+        { "tone": "preferred", "shape": "ellipse", "x": 18, "y": 18, "rx": 5, "ry": 7 },
+        { "tone": "preferred", "shape": "ellipse", "x": 32, "y": 18, "rx": 5, "ry": 7 },
+        { "tone": "preferred", "shape": "ellipse", "x": 25, "y": 12, "rx": 6, "ry": 5 },
+        { "tone": "live", "shape": "ellipse", "x": 11, "y": 23, "rx": 6, "ry": 5 },
+        { "tone": "live", "shape": "ellipse", "x": 39, "y": 23, "rx": 6, "ry": 5 },
+        { "tone": "live", "shape": "ellipse", "x": 25, "y": 31, "rx": 6, "ry": 5 }
+      ],
       "shots": [
         { "x": 25, "y": 9, "result": "make" },
         { "x": 18, "y": 24, "result": "make" },
